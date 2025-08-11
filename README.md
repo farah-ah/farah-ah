@@ -11,7 +11,7 @@ Passionate • Dedicated • Always Learning 🚀
 ## 🌟 About Me
 
 Hi! I’m **Farah**, a curious and driven **CS student** who loves diving into new tech, building cool projects, and solving challenging problems.  
-I believe in the magic of *continuous learning* and *never giving up* 💪✨.
+I have a strong passion for integrating artistic vision with logical problem-solving, specializing in web page UI/UX design and 3D modeling using Blender. In addition, I actively develop Roblox games during my free time, combining creativity with technical expertise.* 💪✨.
 
 ---
 
@@ -37,14 +37,6 @@ I believe in the magic of *continuous learning* and *never giving up* 💪✨.
 <img src="https://img.shields.io/badge/Frontend%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
-<p align="center">
-I have hands-on experience and an active learning journey in <strong>C, C++, Python, JavaScript, and Frontend Development</strong>.  
-Through academic projects, personal initiatives, and continuous practice, I’m building strong skills in <strong>problem-solving, clean coding practices, and modern web technologies</strong>.  
-My focus is on writing <strong>efficient, maintainable, and scalable code</strong> while keeping user experience at the forefront. 🚀
-</p>
-
----
 
 ## 🧑‍💻 Developer / Forums
 
